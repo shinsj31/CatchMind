@@ -1,0 +1,423 @@
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\bcd77\Documents\Visual Studio 2015\Projects\CatchMind\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind\CatchMind\bin\Debug\야놀자 야체 Regular.ttf
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\bin\Debug\야놀자 야체 Regular.ttf
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\bin\Debug\야놀자 야체 Regular.ttf
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\수정\Documents\카카오톡 받은 파일\CatchMind\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\bin\Debug\CatchMind.exe.config
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\obj\Debug\CatchMind.exe
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\obj\Debug\CatchMind.pdb
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\bin\Debug\야놀자 야체 Regular.ttf
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\bin\Debug\CatchMind.exe
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\bin\Debug\CatchMind.pdb
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.dll
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.pdb
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\obj\Debug\CatchMind.Form1.resources
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\obj\Debug\CatchMind.Form2.resources
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\obj\Debug\CatchMind.Form3.resources
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\obj\Debug\CatchMind.Form4.resources
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\obj\Debug\CatchMind.Form5.resources
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\obj\Debug\CatchMind.Form6.resources
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\bin\Debug\야놀자 야체 Regular.ttf
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\고은\Desktop\소실3\CatchMind_0507_01_07\CatchMind\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\bcd77\Desktop\CatchMind_0509\CatchMind\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\bcd77\Desktop\CatchMind_0511 - 복사본\CatchMind\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\bcd77\Desktop\해볼거\CatchMind_Test\CatchMind\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\bcd77\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0521\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.xml
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.xml
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_0613\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\고은\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\고은\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\고은\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.xml
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.xml
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.xml
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_최종1\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.xml
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\조유진\Desktop\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.xml
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\EunJeong Hwang\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.xml
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\수정\Desktop\CatchMind_final (2)\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\CatchMind.pdb
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.dll
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\MySql.Data.xml
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\socketProtocol_Library.pdb
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csprojResolveAssemblyReference.cache
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form1.resources
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form2.resources
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form3.resources
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form4.resources
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form5.resources
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Form6.resources
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.Properties.Resources.resources
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.csproj.GenerateResource.Cache
+D:\신수정\과제\소프트웨어실습3\소실 팀플\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\bin\Debug\CatchMind.exe.config
+D:\신수정\과제\소프트웨어실습3\소실 팀플\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.exe
+D:\신수정\과제\소프트웨어실습3\소실 팀플\7조_최종발표\CatchMind_final\CatchMind_Test\CatchMind\obj\Debug\CatchMind.pdb

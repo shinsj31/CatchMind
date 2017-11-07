@@ -1,0 +1,40 @@
+c:\users\고은\documents\visual studio 2015\Projects\Chatting\bin\Debug\Chatting.exe.config
+c:\users\고은\documents\visual studio 2015\Projects\Chatting\bin\Debug\Chatting.exe
+c:\users\고은\documents\visual studio 2015\Projects\Chatting\bin\Debug\Chatting.pdb
+c:\users\고은\documents\visual studio 2015\Projects\Chatting\obj\Debug\Chatting.csprojResolveAssemblyReference.cache
+c:\users\고은\documents\visual studio 2015\Projects\Chatting\obj\Debug\Chatting.Form1.resources
+c:\users\고은\documents\visual studio 2015\Projects\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+c:\users\고은\documents\visual studio 2015\Projects\Chatting\obj\Debug\Chatting.csproj.GenerateResource.Cache
+c:\users\고은\documents\visual studio 2015\Projects\Chatting\obj\Debug\Chatting.exe
+c:\users\고은\documents\visual studio 2015\Projects\Chatting\obj\Debug\Chatting.pdb
+C:\Users\고은\Desktop\소실3\플젝\Chatting\bin\Debug\Chatting.exe.config
+C:\Users\고은\Desktop\소실3\플젝\Chatting\obj\Debug\Chatting.exe
+C:\Users\고은\Desktop\소실3\플젝\Chatting\obj\Debug\Chatting.pdb
+C:\Users\고은\Desktop\소실3\플젝\Chatting\bin\Debug\Chatting.exe
+C:\Users\고은\Desktop\소실3\플젝\Chatting\bin\Debug\Chatting.pdb
+C:\Users\고은\Desktop\소실3\플젝\Chatting\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\소실3\플젝\Chatting\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\소실3\플젝\Chatting\obj\Debug\Chatting.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\소실3\플젝\Chatting\obj\Debug\Chatting.Form1.resources
+C:\Users\고은\Desktop\소실3\플젝\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+C:\Users\고은\Desktop\소실3\플젝\Chatting\obj\Debug\Chatting.csproj.GenerateResource.Cache
+C:\Users\수정\Documents\카카오톡 받은 파일\플젝\Chatting\bin\Debug\Chatting.exe.config
+C:\Users\수정\Documents\카카오톡 받은 파일\플젝\Chatting\obj\Debug\Chatting.exe
+C:\Users\수정\Documents\카카오톡 받은 파일\플젝\Chatting\obj\Debug\Chatting.pdb
+C:\Users\수정\Documents\카카오톡 받은 파일\플젝\Chatting\bin\Debug\Chatting.exe
+C:\Users\수정\Documents\카카오톡 받은 파일\플젝\Chatting\bin\Debug\Chatting.pdb
+C:\Users\수정\Documents\카카오톡 받은 파일\플젝\Chatting\bin\Debug\socketProtocol_Library.dll
+C:\Users\수정\Documents\카카오톡 받은 파일\플젝\Chatting\bin\Debug\socketProtocol_Library.pdb
+C:\Users\수정\Documents\카카오톡 받은 파일\플젝\Chatting\obj\Debug\Chatting.csprojResolveAssemblyReference.cache
+C:\Users\수정\Documents\카카오톡 받은 파일\플젝\Chatting\obj\Debug\Chatting.Form1.resources
+C:\Users\수정\Documents\카카오톡 받은 파일\플젝\Chatting\obj\Debug\Chatting.Properties.Resources.resources
+C:\Users\수정\Documents\카카오톡 받은 파일\플젝\Chatting\obj\Debug\Chatting.csproj.GenerateResource.Cache
+D:\신수정\과제\소프트웨어실습3\소실 팀플\다중채팅\Chatting\bin\Debug\Chatting.exe.config
+D:\신수정\과제\소프트웨어실습3\소실 팀플\다중채팅\Chatting\obj\Debug\Chatting.exe
+D:\신수정\과제\소프트웨어실습3\소실 팀플\다중채팅\Chatting\obj\Debug\Chatting.pdb
+C:\Users\bcd77\Desktop\다중채팅\다중채팅\Chatting\bin\Debug\Chatting.exe.config
+C:\Users\bcd77\Desktop\다중채팅\다중채팅\Chatting\obj\Debug\Chatting.exe
+C:\Users\bcd77\Desktop\다중채팅\다중채팅\Chatting\obj\Debug\Chatting.pdb
+C:\Users\bcd77\Desktop\CatchMind\Chatting\bin\Debug\Chatting.exe.config
+C:\Users\bcd77\Desktop\CatchMind\Chatting\obj\Debug\Chatting.exe
+C:\Users\bcd77\Desktop\CatchMind\Chatting\obj\Debug\Chatting.pdb

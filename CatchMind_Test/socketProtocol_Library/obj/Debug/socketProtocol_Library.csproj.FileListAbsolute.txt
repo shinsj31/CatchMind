@@ -1,0 +1,74 @@
+C:\Users\고은\Documents\Visual Studio 2015\Projects\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Documents\Visual Studio 2015\Projects\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Documents\Visual Studio 2015\Projects\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\고은\Documents\Visual Studio 2015\Projects\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Documents\Visual Studio 2015\Projects\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\소실3\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\소실3\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\소실3\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\소실3\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\소실3\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\소실3\플젝\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\소실3\플젝\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\소실3\플젝\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\소실3\플젝\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\소실3\플젝\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+D:\신수정\과제\소프트웨어실습3\소실 팀플\CatchMind\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_0511\CatchMind\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_Test\CatchMind\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_0517\CatchMind\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\bcd77\Desktop\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\bcd77\Desktop\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\bcd77\Desktop\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\수정\Desktop\각종 캐치마인드들\CatchMind_0521\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\CatchMind_0610\CatchMind_0521\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\CatchMind_디비추가\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\CatchMind_디비추가\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\CatchMind_디비추가\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\CatchMind_디비추가\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\CatchMind_디비추가\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\socketProtocol_Library\bin\Debug\MySql.Data.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\socketProtocol_Library\bin\Debug\MySql.Data.xml
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\EunJeong Hwang\Desktop\CatchMind_디비추가\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\socketProtocol_Library\bin\Debug\MySql.Data.xml
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\고은\Desktop\CatchMind_디비추가 (2)\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.dll
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\socketProtocol_Library\bin\Debug\socketProtocol_Library.pdb
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\socketProtocol_Library\bin\Debug\MySql.Data.xml
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.csprojResolveAssemblyReference.cache
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.dll
+C:\Users\수정\Desktop\7조_최종발표\CatchMind_final\CatchMind_Test\socketProtocol_Library\obj\Debug\socketProtocol_Library.pdb

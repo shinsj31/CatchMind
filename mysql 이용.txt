@@ -1,0 +1,9 @@
+MySQL 이용관련.
+
+catchmind_db.sql 파일이용하여 database,table생성 후
+
+Form2, Form3, Form5에 있는
+
+static String strConn = "Server=localhost;Database=catchmind_db;Uid=root;Pwd=5kfwrj";
+
+Uid, Pwd변경.
